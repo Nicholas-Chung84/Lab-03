@@ -7,4 +7,5 @@
         }
       },
     "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "cmake.sourceDirectory": "C:/Users/user/Documents/Lab-03/src",
 }
